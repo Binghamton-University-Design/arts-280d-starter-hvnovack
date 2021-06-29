@@ -1,6 +1,33 @@
 /*stylesheet*/
 
+/*
+
+tiers of cascading styles
+
+importance - 
+
+1 transition
+2 !important
+3 animation
+4 normal styles
+
+
+origin
+website
+user
+browser
+
+Specificity
+inline > id > class > type
+
+position
+top to bottom
+
+
+
+
+*/
+
 body{
 	background-color: lightcoral;
 	color:  #333333;
-}
