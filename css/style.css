@@ -31,3 +31,27 @@ top to bottom
 body{
 	background-color: lightcoral;
 	color:  #333333;
+}
+
+h1#main-headline {
+	font-size: 48px;
+	color: green;
+	font-weight: 800;
+}
+
+h1.main-headline {
+	font-size: 48px;
+	color: red;
+	font-weight: 800;
+	}
+
+	
+h1, h2, h3, h4{
+
+	margin: 0;
+}
+
+	
+			p {
+			color: lavender !important;
+			} 
